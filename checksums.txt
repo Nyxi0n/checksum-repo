@@ -1,1 +1,2 @@
+5e4610743c8e2120e32497f2c43aecd86c6b65cf9b26609a27fb626581eb2cfa  designstudio_branding_and_extradata.zip
 ca5512e96ac66af356d566eba019c22de78c05e057e35a27b7029e40bba0ebfb  LM_Studio-0.3.5.AppImage
