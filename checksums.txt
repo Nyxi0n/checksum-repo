@@ -1,2 +1,3 @@
 5e4610743c8e2120e32497f2c43aecd86c6b65cf9b26609a27fb626581eb2cfa  designstudio_branding_and_extradata.zip
 ca5512e96ac66af356d566eba019c22de78c05e057e35a27b7029e40bba0ebfb  LM_Studio-0.3.5.AppImage
+ead9c98b5e8e64c62fa3fe1d8243532040a87406447afc0f6c780f0a89c3cbc1  Lumimaid-v0.2-8B-Q5_K_M-imat.gguf
